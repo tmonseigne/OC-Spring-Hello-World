@@ -7,10 +7,10 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-@SpringBootApplication //Annotation permettant de lancer la machine Spring
+@SpringBootApplication	// Annotation permettant de lancer la machine Spring
 public class HelloWorldApplication implements CommandLineRunner {
 
-	@Autowired
+	@Autowired	// Annotation permettant d'injecter l'attribut
 	private BusinessService bs;
 
 	public static void main(String[] args) {

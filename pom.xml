@@ -11,7 +11,7 @@
 	<groupId>com.kuro</groupId>
 	<artifactId>helloworld</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>helloworld</name>
+	<name>Hello World</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
